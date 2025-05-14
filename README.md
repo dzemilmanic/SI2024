@@ -1,2 +1,2 @@
 # SI2024
-Softversko inženjerstvo 2024/25
+Softversko inženjerstvo dokumentacija 2024/25
